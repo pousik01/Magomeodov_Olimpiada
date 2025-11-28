@@ -1,0 +1,7 @@
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\st310-11\Documents\Магомедов\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
