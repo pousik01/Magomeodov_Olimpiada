@@ -36,7 +36,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(Convert.ToInt32(Math.Ceiling(m1)));
             }
-            Console.ReadKey();
         }
     }
 }
